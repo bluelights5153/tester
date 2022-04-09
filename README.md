@@ -1,3 +1,3 @@
 # Belajar bikin README
 
-Lagi belajar bikin README nih
+Lagi belajar bikin README nih, seru ternyata
